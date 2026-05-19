@@ -1,2 +1,5 @@
-name = input("Enter your favourite color: ")
-print("Your davourite colors is: "+ name)
+year=2024
+name="dune"
+
+print(f"movie name: {name} and release year:  {year} ")
+print("type of age: ", type(year))
